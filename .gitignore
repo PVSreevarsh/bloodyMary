@@ -1,0 +1,5 @@
+node_modules
+.angular
+_MACOSX
+.nx\cache\
+src
